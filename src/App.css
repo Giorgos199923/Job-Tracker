@@ -1,0 +1,17 @@
+
+h1 {
+  text-align: center;
+  margin-top: 40px;
+}
+
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: bisque
+}
+
+.app-container {
+  max-width: 900px;
+  margin: 0 auto;
+  padding: 20px;
+}
